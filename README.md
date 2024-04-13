@@ -13,7 +13,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shreyash-0928](https://github.com/shreyash-0928)
 
 - 📫 How to reach me **shreyashvidhate88@gmail.com**
-- My Resume [Shreyash Vidhate Resume.pdf](https://github.com/shreyash-0928/shreyash-0928/files/14896508/Shreyash.Vidhate.Resume.pdf)
+- My Resume [Shreyash Vidhate Resume.pdf](https://github.com/shreyash-0928/shreyash-0928/files/14965931/Shreyash.Vidhate.Resume.pdf)
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
