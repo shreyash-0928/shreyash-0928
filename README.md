@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Shreyash Vidhate</h1>
 <h3 align="center">A passionate Full-Stack Developer Enthusiast from India</h3>
+**`Reactive Frontend developer 😎`**
 
+----------
 
-- 🔭 I’m currently working on **myself and improving skills**
+### About
 
-- 🌱 I’m currently learning **Anything which excites me 😊**
+-   💻  Self-taught web developer 
+-   ⚡  Fast learner
+-   🖌️  UI design enthusiast 
 
-- 👯 I’m looking to collaborate on **Exciting projects**
+### Stack
 
-- 🤝 I’m looking for help with **Personal assistant**
+-   📑  HTML
+-   🎨  CSS
+-    🏗 Javascript 
+-   🌀  Tailwind CSS 
+-   ⚛  ReactJS 
+-    ✨ Invision Studio 
+-   🔜  *Node.js(currently learning)*
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyash-0928](https://github.com/shreyash-0928)
+### Skills
 
+-  Web application development 
+-  Website development 
+-  UI design(web and mobile)
 - 📫 How to reach me **shreyashvidhate88@gmail.com**
-- My Resume [Shreyash Vidhate Resume.pdf](https://github.com/shreyash-0928/shreyash-0928/files/14965931/Shreyash.Vidhate.Resume.pdf)
+- My Resume [Shreyash Vidhate Resume.pdf](file:///C:/Users/ASUS/Downloads/ShreyashVidhate%20Resume.pdf)
   
 
 <h3 align="left">Connect with me:</h3>
