@@ -17,7 +17,6 @@
 -    🏗 Javascript 
 -   🌀  Tailwind CSS 
 -   ⚛  ReactJS 
--    ✨ Invision Studio 
 -   🔜  *Node.js(currently learning)*
 
 ### Skills
