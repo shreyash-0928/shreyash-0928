@@ -25,7 +25,7 @@
 -  Website development 
 -  UI design(web and mobile)
 - 📫 How to reach me **shreyashvidhate88@gmail.com**
-- My Resume [ShreyashVidhate Resume.pdf](https://github.com/user-attachments/files/16743029/ShreyashVidhate.Resume.pdf)
+- My Resume [Shreyash Vidhate Resume.pdf](https://github.com/user-attachments/files/16868965/Shreyash.Vidhate.Resume.pdf)
   
 
 <h3 align="left">Connect with me:</h3>
